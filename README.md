@@ -5,8 +5,7 @@
 Faculdade de Tecnologia do Estado de São Paulo Professor Jessen Vidal
 
 ### Equipe
-Kevin Gabriel Alves de Melo
-Kauan do Espiríto Santo Souza
+Kevin Gabriel Alves de Melo e Kauan do Espiríto Santo Souza
 
 ### Professor Orientador
 Fernando Masanori
