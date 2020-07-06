@@ -2,7 +2,7 @@
 ## Covid-19 em Vale do Paraíba e Região
 
 ## Resumo
-
+A covid-19 é um vírus que está causando diversos problemas no mundo, atualmente, é o assunto mais falado em todos os meios comunicativos, com isso em mente, este trabalho foi elaborado para reunir informações especificamente do vale do Paraíba, e exibi-los através de gráficos de fácil entendimento. A ferramenta utilizada foi o Jupyter Notebook, que nos possibilita com uma linguagem simples e direta elaborar gráficos de diferentes formas.
 
 ### Instituição
 Faculdade de Tecnologia do Estado de São Paulo Professor Jessen Vidal
@@ -41,3 +41,4 @@ jupyter notebook
 ```
 
 ## Conclusão
+Após a realização do trabalho podemos tirar algumas conclusões sobre a situação do vale do Paraíba, em relação a pandemia. São José dos Campos está sempre liderando em casos de ocorrência e casos novos de covid-19, e são números preocupantes pois vem crescendo aritméticamente, Taubaté também não fica atrás com novos casos aparecendo diariamente. Proporcionalmente falando era de se esperar que São José dos Campos liderasse os números, pois é uma cidade onde o fluxo de pessoas é muito grande, assim como seu número de habitantes que hoje em dia já conta com mais de 700 mil.
