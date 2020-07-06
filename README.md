@@ -8,7 +8,7 @@ Faculdade de Tecnologia do Estado de São Paulo Professor Jessen Vidal
 Kevin Gabriel Alves de Melo
 Kauan do Espiríto Santo Souza
 
-### Professor orientador
+### Professor Orientador
 Fernando Masanori
 
 ### Requisitos
@@ -26,12 +26,9 @@ https://covid.saude.gov.br
 2. Adicionar o python as [variáveis de ambiente](https://datatofish.com/add-python-to-windows-path/)
 3. Clonar esse repositório 
 ```
-git clone https://github.com/mayaracsferreira/analise-opendatasus-covid19.git
+git clone https://github.com/kevingabrielmelo/COVID-VALE-DO-PARAIBA-E-REGIAO
 ```
 4. Entrar na pasta do repositório (pelo cmd ou terminal) e instalar as dependências
-```
-cd analise-opendatasus-covid19
-```
 
 ```
 pip install -r requirements.txt
