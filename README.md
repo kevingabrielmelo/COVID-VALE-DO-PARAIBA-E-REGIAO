@@ -1,6 +1,9 @@
 # COVID-VALE-DO-PARAIBA-E-REGIAO
 ## Covid-19 em Vale do Paraíba e Região
 
+## Resumo
+
+
 ### Instituição
 Faculdade de Tecnologia do Estado de São Paulo Professor Jessen Vidal
 
@@ -36,3 +39,5 @@ pip install -r requirements.txt
 ```
 jupyter notebook
 ```
+
+## Conclusão
