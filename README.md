@@ -22,7 +22,7 @@ Jupyter Notebook
 Fonte dos dados
 https://covid.saude.gov.br
 
-### Instalação
+
 ### Instalação
 1. Baixar e instalar o Python 3.8.x pelo [site oficial](https://www.python.org/downloads/)
 2. Adicionar o python as [variáveis de ambiente](https://datatofish.com/add-python-to-windows-path/)
